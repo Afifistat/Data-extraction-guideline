@@ -1,0 +1,4 @@
+study_id,trial_order,pico5,outcome,out_unit,time,pos,total
+803,1,Control,incidence,Quarter,1,17,110
+803,1,Treatment,incidence,Quarter,1,13,109
+803,1,Treatment,incidence,Quarter,1,8,101
