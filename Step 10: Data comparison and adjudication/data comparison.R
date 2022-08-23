@@ -1,10 +1,18 @@
 rm(list=ls())
-setwd("D:/PhD/Data Extraction_manuscript/versions/submission/supplementary materials")
-library(compareDF)
-library(tidyverse)
-library(readr)
+
+#working directory------------------------
+setwd("D:/reviewer_1/exported data")
+
+#Libraries-----------------------------
+library(compareDF) # for data comparison
+library(tidyverse) # for piping (%>% i.e. creating a sequence of multiple operations)
+library(readr) # for reading 
+
+#Reading data from two reviewers-----------------------------
 Rev_1 <- read_csv("Rev_1.csv")
 Rev_2 <- read_csv("Rev_2.csv")
+
+#Comparing data from two reviewers-----------------------------
 comp_nps <- compare_df(Rev_1,
                        
                        Rev_2,
