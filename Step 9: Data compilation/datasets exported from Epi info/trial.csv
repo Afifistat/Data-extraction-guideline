@@ -1,0 +1,4 @@
+"UniqueKey","RECSTATUS","GlobalRecordId","FirstSaveLogonName","FirstSaveTime","LastSaveLogonName","LastSaveTime","FKEY","study_id_expo","trial_order","Tot_No_of_farm_sselectedforinclusion","TotNoofcowsselectedforinclusion","Challengedose","BacterialConcCFUml","Typeofexposure","Trialdesign","Studysobjective","TotNoofquartersselectedforinclusion","CowsInclusionExclusioncriteria","Interventionallocationunit","Parity","parity_min","parity_max","elaborate","Breed","ChallengeBacterialSp","Wasanapriorisamplesizecalculationreported","Ifthedatahavesomekindofhierarchicalstructurehavetheauthorsaccoun","Wastheanalysisdoneasintentiontotreat","inappropriate"
+18,1,"b2b40093-64d0-42d4-bdaa-ae94c7e4ad1b","ADDS\mafifi","3/23/2019 8:50:12 PM","ADDS\mafifi","8/29/2022 12:04:53 PM","a511a477-5e18-4803-a9c1-68f5adc7aa2e",118,1,8,489,NA,NA,"Natural IMI","RCT","Assessing the effect of the Tx",NA,"bulk milk SCC < 250,000 cells/mL
+
+","Cow",2.52,1,11,"","Holsteins","","No","Yes","No","No"

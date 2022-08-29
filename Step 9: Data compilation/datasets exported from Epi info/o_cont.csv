@@ -1,0 +1,2 @@
+UniqueKey,UniqueRowId,GlobalRecordId,RECSTATUS,FKEY,Pathogenspp,Comparisongroup,Estimate,SE,LCI,UCI,Pvalue1
+13,3e6b3726-0603-4565-8159-ff3ea00a1a1b,75934af3-f95a-4763-b5a1-8e5bb0c64563,1,ee8b7347-12c3-492e-81ab-56c03f673255,E. coli,Cephalonium,0.72,0.11,,,
